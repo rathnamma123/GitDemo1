@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-28T20:20:09 PDT" name="Suite" finished-at="2021-06-28T20:20:10 PDT" duration-ms="144">
+    <groups>
+    </groups>
+    <test started-at="2021-06-28T20:20:09 PDT" name="Test" finished-at="2021-06-28T20:20:10 PDT" duration-ms="144">
+      <class name="MavenSeleniumjava.AppiumTest">
+        <test-method signature="AppiumAutomation()[pri:0, instance:MavenSeleniumjava.AppiumTest@7f1302d6]" started-at="2021-06-28T20:20:10 PDT" name="AppiumAutomation" finished-at="2021-06-28T20:20:10 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumAutomation -->
+      </class> <!-- MavenSeleniumjava.AppiumTest -->
+      <class name="MavenSeleniumjava.RestAPITest">
+        <test-method signature="RestAutomation()[pri:0, instance:MavenSeleniumjava.RestAPITest@43ee72e6]" started-at="2021-06-28T20:20:10 PDT" name="RestAutomation" finished-at="2021-06-28T20:20:10 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAutomation -->
+      </class> <!-- MavenSeleniumjava.RestAPITest -->
+      <class name="MavenSeleniumjava.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:MavenSeleniumjava.SeleniumTest@79ad8b2f]" started-at="2021-06-28T20:20:10 PDT" name="BrowserAutomation" finished-at="2021-06-28T20:20:10 PDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- MavenSeleniumjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
